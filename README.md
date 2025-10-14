@@ -1,29 +1,10 @@
 
-# 👋 Hi, I'm Forkan Amin  
+#  Hello, I'm Forkan Amin  
 ###  Data Analyst |  Data Scientist | Machine Learning Enthusiast  
 
 I’m passionate about **transforming raw data into intelligent insights**.  
 From **data cleaning** to **predictive modeling**, I love solving real-world problems with data-driven approaches.  
 My goal? To bridge the gap between **business decisions** and **data science**.  
-
----
-
-## 🧠 About Me  
-🎓 B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**  
-💼 Skilled in **Data Analytics**, **Machine Learning**, **Business Intelligence**, and **Data Visualization**  
-🚀 Passionate about **clean code**, **automation**, and **AI explainability (SHAP, feature importance)**  
-🌱 Currently exploring **Deep Learning** and **real-world MLOps workflows**
-
----
-
-## 🧰 Tech Stack  
-
-**Languages:** Python, R, SQL, DAX, VBA  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
-**Tools:** Excel, Power BI, Jupyter, VS Code, Git, Google Colab  
-**Databases:** MySQL, PostgreSQL  
-**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
-
 
 ---
 
@@ -35,12 +16,30 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
+--- 
+
+## 🧠 About Me
+-   🎓 **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
+-   💼 **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
+-   🚀 **Passions:** Clean & efficient data strategy, process automation, and making AI models explainable (SHAP, LIME).
+-   🌱 **Currently Learning:** Advanced data science tools and ML algorithms.
+
+---
+
+## 🧰 Tech Stack  
+
+**Languages:** Python, R, SQL, DAX, VBA  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
+**Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
+**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase
+**Databases:** MySQL, PostgreSQL  
+**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
+
 ---
 
 ###  My GitHub Stats
 
 ![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=dark&hide_border=true)
 
 ---
@@ -67,7 +66,6 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 - 📚 Research-driven mindset with strong mathematical foundation  
 - 🌍 Experienced in **end-to-end data workflows** — from ETL to visualization & modeling  
 
-
 ---
 
 ##  Activity  
@@ -76,18 +74,21 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 ---
 
 ##  Research Interests  
-- Mental Health Analytics using DASS-21  
-- Explainable AI (SHAP / LIME)  
-- Social and Behavioral Data Science  
-- Predictive Modeling and Feature Engineering  
+ 
+- Data Analytics and Business Intelligence
+- Predictive Modeling and Machine Learning
+- Statistical Data Analysis and Visualization
+- AI Engineering
+- Data Science Projects
+- Social and Behavioral Data Science
 
 ---
 
-## 📫 Connect With Me  
-💼 [LinkedIn](https://linkedin.com/in/forkan-amin-shaon)  
-📊 [Kaggle](https://www.kaggle.com/forkanaminshaon)  
-📍 Dhaka, Bangladesh  
-📧 forkanaminshaon@gmail.com  
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forkan-amin-shaon) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/forkanaminshaon) 
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forkanaminshaon@gmail.com)
 
 ---
 
