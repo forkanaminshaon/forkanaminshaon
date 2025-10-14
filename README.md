@@ -64,7 +64,7 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 - 🥇 Winner – **Programming Hero Professional Email Writing Competition**  
 - 🧩 Project Focus: **Student Mental Health Prediction (DASS-21 + SHAP-based Explainability)**  
 - 📚 Research-driven mindset with strong mathematical foundation  
-- 🌍 Experienced in **end-to-end data workflows** — from ETL to visualization & modeling  
+- 🌍 Experienced in **data analytics** — from data to actionable insights
 
 ---
 
@@ -79,7 +79,7 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 - Predictive Modeling and Machine Learning
 - Statistical Data Analysis and Visualization
 - AI Engineering
-- Data Science Projects
+- Real World Data Science Projects
 - Social and Behavioral Data Science
 
 ---
