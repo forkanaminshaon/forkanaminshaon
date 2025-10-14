@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Forkan Amin  
-### 📊 Data Analyst | 🧠 Data Scientist | 📈 Machine Learning Enthusiast  
+###  Data Analyst |  Data Scientist | Machine Learning Enthusiast  
 
 I’m passionate about **transforming raw data into intelligent insights**.  
 From **data cleaning** to **predictive modeling**, I love solving real-world problems with data-driven approaches.  
@@ -20,24 +20,24 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 **Languages:** Python, R, SQL, DAX, VBA  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
-**Tools:** Power BI, Excel, Jupyter, VS Code, Git, Google Colab  
+**Tools:** Excel, Power BI, Jupyter, VS Code, Git, Google Colab  
 **Databases:** MySQL, PostgreSQL  
 **Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
 
 
 ---
 
-### 🔧 My Tech Stack & Tools
+### 🔧 Tech Tools
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 ![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
@@ -45,18 +45,18 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
-📊 [**Power BI Projects**](https://github.com/forkanaminshaon/Power-BI-Projects)  
+[**Power BI Projects**](https://github.com/forkanaminshaon/Power-BI-Projects)  
 Interactive dashboards for sales, finance, and HR analytics using real-world datasets.
 
-🐍 [**Python Data Science Projects**](https://github.com/forkanaminshaon/Python-Projects)  
+[**Python Data Science Projects**](https://github.com/forkanaminshaon/Python-Projects)  
 Includes data preprocessing, visualization, and ML model building (Scikit-learn + SHAP).
 
-🧮 [**Excel & SQL Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
+ [**Excel & SQL Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
 Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 
-🧠 [**Machine Learning Projects**](#)  
+[**Machine Learning Projects**](#)  
 Predictive modeling for student mental health (DASS-21), regression analysis, and model explainability.
 
 ---
@@ -70,12 +70,12 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 
 ---
 
-## 🔥 Activity  
+##  Activity  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=forkanaminshaon&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 ---
 
-## 🧩 Research Interests  
+##  Research Interests  
 - Mental Health Analytics using DASS-21  
 - Explainable AI (SHAP / LIME)  
 - Social and Behavioral Data Science  
