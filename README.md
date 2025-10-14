@@ -1,41 +1,73 @@
-# Hi there, I'm Forkan Amin 👋
+<!-- Profile README for Forkan Amin -->
+<img src="https://github.com/forkanaminshaon/forkanaminshaon/blob/main/assets/banner.png" width="100%" alt="Forkan Amin Banner"/>
 
-<a href="https://www.linkedin.com/in/forkan-amin-shaon/">
-  <img align="left" alt="Forkan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/forkanamin">
-  <img align="left" alt="Forkan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
+# 👋 Hi, I'm Forkan Amin  
+### 📊 Data Analyst | Power BI | SQL | Excel | Python | Data Storyteller  
 
-<br />
-<br />
-
-I am a Data Analyst from Dhaka, Bangladesh, passionate about transforming raw data into actionable insights and compelling stories. My goal is to help businesses make data-driven decisions by leveraging tools like Power BI, SQL, and Python.
+🚀 Passionate about turning **raw data into insights** and **automating reports** to drive smarter business decisions.  
+💡 Skilled in **data visualization**, **SQL querying**, and **data modeling** with tools like Power BI, Excel, and Python.  
+🎯 Focused on **clean code**, **real-world problem-solving**, and **continuous learning**.  
 
 ---
 
-### 🔧 My Tech Stack & Tools
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+## 🧠 What I Do  
+- 📈 Build interactive dashboards in **Power BI** & **Excel**  
+- 🧹 Clean and preprocess data using **Python (Pandas, NumPy)**  
+- 🧮 Analyze datasets using **SQL** and **statistical tools**  
+- 🧰 Automate repetitive tasks to save time & improve accuracy  
 
 ---
 
-### 📊 My GitHub Stats
-
-![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=dark&hide_border=true)
+## 🧰 Tech Stack  
+**Languages:** Python, SQL, DAX, VBA  
+**Tools:** Power BI, Excel, Jupyter, VS Code, Git  
+**Databases:** MySQL, PostgreSQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
 
 ---
 
-### 🌱 I’m currently working on...
-- Analyzing sales performance data to identify growth opportunities using Power BI.
-- Exploring advanced DAX functions to create complex business calculations.
+## 🚀 Featured Projects  
 
-### 📫 How to reach me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/forkan-amin-shaon/).
-- Check out my work on [Kaggle](https://www.kaggle.com/forkanamin).
+🌟 [**Power BI Projects**](https://github.com/forkanaminshaon/Power-BI-Projects)  
+Complete BI workflows: data extraction → transformation → dashboard automation.
+
+🐍 [**Python Projects**](https://github.com/forkanaminshaon/Python-Projects)  
+Scripts for cleaning, analysis, and visualization using Pandas & Matplotlib.
+
+📊 [**Microsoft Excel Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
+Advanced Excel dashboards with pivot tables, Power Query, and automation.
+
+🗄️ [**MySQL Projects**](https://github.com/forkanaminshaon/MySQL-Projects)  
+Database design, querying, joins, and data manipulation projects.
+
+---
+
+## 🏆 Highlights  
+- 🥇 Winner – **Programming Hero Professional Email Writing Competition**  
+- 🎓 Background in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**  
+- 🌱 Currently exploring **Machine Learning & SHAP-based Explainability**
+
+---
+
+## 📊 GitHub Stats  
+
+![Forkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=forkanaminshaon&theme=onedark&no-bg=true&margin-w=15)
+
+---
+
+## 🔥 Activity  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=forkanaminshaon&theme=react-dark&bg_color=0D1117&hide_border=true)
+
+---
+
+## 📫 Connect With Me  
+🌍 **Portfolio:** *Coming Soon*  
+💼 [LinkedIn](https://linkedin.com/in/forkan-amin-shaon)  
+📊 [Kaggle](https://www.kaggle.com/forkanaminshaon)  
+📍 Dhaka, Bangladesh  
+
+---
+
+⭐ *“Always learning, always building.”*  
