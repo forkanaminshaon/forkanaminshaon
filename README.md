@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Forkan Amin  
+### Data Analyst | Power BI | SQL | Excel | Python | Data Storyteller  
 
-<!--
-**forkanaminshaon/forkanaminshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about turning data into actionable insights.  
+💡 I love solving real-world problems with clean, efficient code.  
+📊 Skilled in Power BI, Excel, Python, SQL, and data automation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Python, SQL, DAX, VBA  
+- **Tools:** Power BI, Excel, Jupyter, VS Code, Git  
+- **Databases:** MySQL, PostgreSQL  
+- **Libraries:** Pandas, Matplotlib, Scikit-learn  
+
+---
+
+### 🚀 Featured Projects
+🌟 [Power BI Sales Dashboard](https://github.com/forkanaminshaon/Power-BI-Projects)  
+📈 [Excel 365 Automation Toolkit](https://github.com/forkanaminshaon/Excel-365-Projects)  
+🧠 [Python Data Cleaning Scripts](https://github.com/forkanaminshaon/Python-Projects)  
+
+---
+
+### 🧩 Fun Facts
+- 🏆 Winner: [Programming Hero Email Writing Competition](#)
+- 📚 Currently exploring: Machine Learning for data-driven insights
+- 🌱 Motto: “Always learning, always building.”
+
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/forkan-amin-shaon) | [Kaggle](https://www.kaggle.com/forkanaminshaon) | [Portfolio](#)
