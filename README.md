@@ -31,9 +31,9 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 **Languages:** Python, R, SQL, DAX, VBA  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
 **Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
-**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase
-**Databases:** MySQL, PostgreSQL  
+**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
 **Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
+**Databases:** MySQL, PostgreSQL  
 
 ---
 
