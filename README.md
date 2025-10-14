@@ -3,26 +3,27 @@
 ###  Data Analyst |  Data Scientist | Machine Learning Enthusiast  
 
 I’m passionate about **transforming raw data into intelligent insights**.  
-From **data cleaning** to **predictive modeling**, I love solving real-world problems with data-driven approaches.  
+From **Excel** and **Google Sheets** for data cleaning and quick analysis, to SQL and MySQL for database querying — every step builds the foundation for deeper exploration with Python and Power BI. 
 My goal? To bridge the gap between **business decisions** and **data science**.  
 
 ---
-
-### 🔧 Tech Tools
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
-
---- 
 
 ## 🧠 About Me
 -   🎓 **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
 -   💼 **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
 -   🚀 **Passions:** Clean & efficient data strategy, process automation, and making AI models explainable (SHAP, LIME).
 -   🌱 **Currently Learning:** Advanced data science tools and ML algorithms.
+  
+--- 
+
+### 🔧 Tech Tools
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 ---
 
