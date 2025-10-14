@@ -2,57 +2,60 @@
 <img src="https://github.com/forkanaminshaon/forkanaminshaon/blob/main/assets/banner.png" width="100%" alt="Forkan Amin Banner"/>
 
 # 👋 Hi, I'm Forkan Amin  
-### 📊 Data Analyst | Power BI | SQL | Excel | Python | Data Storyteller  
+### 📊 Data Analyst | 🧠 Data Scientist | 📈 Machine Learning Enthusiast  
 
-🚀 Passionate about turning **raw data into insights** and **automating reports** to drive smarter business decisions.  
-💡 Skilled in **data visualization**, **SQL querying**, and **data modeling** with tools like Power BI, Excel, and Python.  
-🎯 Focused on **clean code**, **real-world problem-solving**, and **continuous learning**.  
+I’m passionate about **transforming raw data into intelligent insights**.  
+From **data cleaning** to **predictive modeling**, I love solving real-world problems with data-driven approaches.  
+My goal? To bridge the gap between **business decisions** and **data science**.  
 
 ---
 
-## 🧠 What I Do  
-- 📈 Build interactive dashboards in **Power BI** & **Excel**  
-- 🧹 Clean and preprocess data using **Python (Pandas, NumPy)**  
-- 🧮 Analyze datasets using **SQL** and **statistical tools**  
-- 🧰 Automate repetitive tasks to save time & improve accuracy  
+## 🧠 About Me  
+🎓 B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**  
+💼 Skilled in **Data Analytics**, **Machine Learning**, **Business Intelligence**, and **Data Visualization**  
+🚀 Passionate about **clean code**, **automation**, and **AI explainability (SHAP, feature importance)**  
+🌱 Currently exploring **Deep Learning** and **real-world MLOps workflows**
 
 ---
 
 ## 🧰 Tech Stack  
-**Languages:** Python, SQL, DAX, VBA  
-**Tools:** Power BI, Excel, Jupyter, VS Code, Git  
+
+**Languages:** Python, R, SQL, DAX, VBA  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
+**Tools:** Power BI, Excel, Jupyter, VS Code, Git, Google Colab  
 **Databases:** MySQL, PostgreSQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
+**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
 
 ---
 
 ## 🚀 Featured Projects  
 
-🌟 [**Power BI Projects**](https://github.com/forkanaminshaon/Power-BI-Projects)  
-Complete BI workflows: data extraction → transformation → dashboard automation.
+📊 [**Power BI Projects**](https://github.com/forkanaminshaon/Power-BI-Projects)  
+Interactive dashboards for sales, finance, and HR analytics using real-world datasets.
 
-🐍 [**Python Projects**](https://github.com/forkanaminshaon/Python-Projects)  
-Scripts for cleaning, analysis, and visualization using Pandas & Matplotlib.
+🐍 [**Python Data Science Projects**](https://github.com/forkanaminshaon/Python-Projects)  
+Includes data preprocessing, visualization, and ML model building (Scikit-learn + SHAP).
 
-📊 [**Microsoft Excel Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
-Advanced Excel dashboards with pivot tables, Power Query, and automation.
+🧮 [**Excel & SQL Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
+Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 
-🗄️ [**MySQL Projects**](https://github.com/forkanaminshaon/MySQL-Projects)  
-Database design, querying, joins, and data manipulation projects.
+🧠 [**Machine Learning Projects**](#)  
+Predictive modeling for student mental health (DASS-21), regression analysis, and model explainability.
 
 ---
 
 ## 🏆 Highlights  
 - 🥇 Winner – **Programming Hero Professional Email Writing Competition**  
-- 🎓 Background in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**  
-- 🌱 Currently exploring **Machine Learning & SHAP-based Explainability**
+- 🧩 Project Focus: **Student Mental Health Prediction (DASS-21 + SHAP-based Explainability)**  
+- 📚 Research-driven mindset with strong mathematical foundation  
+- 🌍 Experienced in **end-to-end data workflows** — from ETL to visualization & modeling  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Forkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight)  
+![Forkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight&hide_border=true)  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=forkanaminshaon&theme=onedark&no-bg=true&margin-w=15)
 
 ---
@@ -62,12 +65,20 @@ Database design, querying, joins, and data manipulation projects.
 
 ---
 
-## 📫 Connect With Me  
-🌍 **Portfolio:** *Coming Soon*  
-💼 [LinkedIn](https://linkedin.com/in/forkan-amin-shaon)  
-📊 [Kaggle](https://www.kaggle.com/forkanaminshaon)  
-📍 Dhaka, Bangladesh  
+## 🧩 Research Interests  
+- Mental Health Analytics using DASS-21  
+- Explainable AI (SHAP / LIME)  
+- Social and Behavioral Data Science  
+- Predictive Modeling and Feature Engineering  
 
 ---
 
-⭐ *“Always learning, always building.”*  
+## 📫 Connect With Me  
+💼 [LinkedIn](https://linkedin.com/in/forkan-amin-shaon)  
+📊 [Kaggle](https://www.kaggle.com/forkanaminshaon)  
+📍 Dhaka, Bangladesh  
+📧 forkanaminshaon@gmail.com  
+
+---
+
+⭐ *“Turning data into decisions. Learning every day. Building with purpose.”*  
