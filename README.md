@@ -1,5 +1,3 @@
-<!-- Profile README for Forkan Amin -->
-<img src="https://github.com/forkanaminshaon/forkanaminshaon/blob/main/assets/banner.png" width="100%" alt="Forkan Amin Banner"/>
 
 # 👋 Hi, I'm Forkan Amin  
 ### 📊 Data Analyst | 🧠 Data Scientist | 📈 Machine Learning Enthusiast  
@@ -26,6 +24,25 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 **Databases:** MySQL, PostgreSQL  
 **Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
 
+
+---
+
+### 🔧 My Tech Stack & Tools
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 🚀 Featured Projects  
@@ -50,13 +67,6 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 - 📚 Research-driven mindset with strong mathematical foundation  
 - 🌍 Experienced in **end-to-end data workflows** — from ETL to visualization & modeling  
 
----
-
-## 📊 GitHub Stats  
-
-![Forkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight&hide_border=true)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=forkanaminshaon&theme=onedark&no-bg=true&margin-w=15)
 
 ---
 
