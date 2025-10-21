@@ -84,6 +84,8 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 - Social and Behavioral Data Science
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
+---
 
 ## 📫 Connect With Me
 
