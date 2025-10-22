@@ -11,7 +11,7 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ## 🧠 About Me
 -   🎓 **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
 -   💼 **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
--   🚀 **Passions:** Clean & efficient data strategy, process automation, and making AI models explainable (SHAP, LIME).
+-   🚀 **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
 -   🌱 **Currently Learning:** Advanced data science tools and ML algorithms.
   
 --- 
@@ -29,8 +29,8 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ## 🧰 Tech Stack  
 
-**Languages:** Python, R, SQL, DAX, VBA  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, SHAP  
+**Languages:** Python, SQL, DAX, VBA  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
 **Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
 **Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
 **Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
