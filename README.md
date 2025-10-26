@@ -8,11 +8,11 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ---
 
-## 🧠 About Me
--   🎓 **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
--   💼 **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
--   🚀 **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
--   🌱 **Currently Learning:** Advanced data science tools and ML algorithms.
+##  About Me
+-    **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
+-    **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
+-    **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
+-    **Currently Learning:** Advanced data science tools and ML algorithms.
   
 --- 
 
@@ -38,7 +38,7 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ---
 
-## 🧰 Tech Summary 
+##  Tech Summary 
 
 **Languages:** Python, SQL, DAX, VBA  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
@@ -74,10 +74,10 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 ---
 
 ## 🏆 Highlights  
-- 🥇 Winner – **Programming Hero Professional Email Writing Competition**  
-- 🧩 Project Focus: **Student Mental Health Prediction (DASS-21 + SHAP-based Explainability)**  
-- 📚 Research-driven mindset with strong mathematical foundation  
-- 🌍 Experienced in **data analytics** — from data to actionable insights
+-  Winner – **Programming Hero Professional Email Writing Competition**  
+-  Project Focus: **Student Mental Health Prediction (DASS-21 + SHAP-based Explainability)**  
+-  Research-driven mindset with strong mathematical foundation  
+-  Experienced in **data analytics** — from data to actionable insights
 
 ---
 
@@ -99,7 +99,7 @@ Predictive modeling for student mental health (DASS-21), regression analysis, an
 ![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forkan-amin-shaon) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/forkanaminshaon) 
