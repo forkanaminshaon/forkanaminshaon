@@ -1,6 +1,6 @@
 
 #  Hello, I'm Forkan Amin  
-###  Data Analyst |  Data Scientist | Machine Learning Enthusiast  
+###  Data Scientist |  Data Analyst  | AI & Machine Learning Enthusiast  
 
 I’m passionate about **transforming raw data into intelligent insights**.  
 From **Excel** and **Google Sheets** for data cleaning and quick analysis, to SQL and MySQL for database querying — every step builds the foundation for deeper exploration with Python and Power BI. 
