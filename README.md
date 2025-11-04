@@ -22,11 +22,12 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-E8EAED?style=for-the-badge&logo=lookerstudio&logoColor=4285F4)
 
 
 ---
 
-### Languages and Tools:
+### Languages and Libraries:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,6 +36,18 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ![Seaborn](https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### AI / LLM Tools:
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googleai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexityai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -52,7 +65,6 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ###  My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=forkanaminshaon&theme=dark&hide_border=true)
 ![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
@@ -68,8 +80,6 @@ Includes data preprocessing, visualization, and ML model building (Scikit-learn 
  [**Excel & SQL Projects**](https://github.com/forkanaminshaon/Microsoft-Excel-Projects)  
 Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 
-[**Machine Learning Projects**](#)  
-Predictive modeling for student mental health (DASS-21), regression analysis, and model explainability.
 
 ---
 
