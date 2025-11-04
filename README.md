@@ -109,7 +109,7 @@ Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 ![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
 ---
 
-## Connect With Me
+## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forkan-amin-shaon)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/forkanaminshaon)&nbsp;
