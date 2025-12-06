@@ -10,7 +10,7 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ##  About Me
 -    **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
--    **Core Skills:** Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Visualization
+-    **Core Skills:** Business Intelligence, Data Analytics, Data Science, Machine Learning,  and Data Visualization
 -    **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
 -    **Currently Learning:** Advanced data science tools and ML algorithms.
   
