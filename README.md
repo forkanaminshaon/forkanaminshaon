@@ -13,9 +13,19 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 -    **Core Skills:** Business Intelligence, Data Analytics, Data Science, Machine Learning,  and Data Visualization
 -    **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
 -    **Currently Learning:** Advanced data science tools and ML algorithms.
-  
 --- 
+![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
+---
+##  Tech Summary 
 
+**Languages:** Python, SQL, DAX, VBA  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+**Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
+**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
+**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
+**Databases:** MySQL, PostgreSQL  
+
+---
 ###  Expertise:
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -23,7 +33,6 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-E8EAED?style=for-the-badge&logo=lookerstudio&logoColor=4285F4)
-
 
 ---
 
@@ -48,17 +57,6 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
-
----
-
-##  Tech Summary 
-
-**Languages:** Python, SQL, DAX, VBA  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
-**Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
-**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
-**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
-**Databases:** MySQL, PostgreSQL  
 
 ---
 
@@ -105,8 +103,6 @@ Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 - Real World Data Science Projects
 - Social and Behavioral Data Science
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
 ---
 
 ## Where to find me
