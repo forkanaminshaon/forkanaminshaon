@@ -3,7 +3,7 @@
 ###  Data Scientist |  Data Analyst  | AI & Machine Learning Enthusiast  
 
 I’m passionate about **transforming raw data into intelligent insights**.  
-From **Excel** and **Google Sheets** for data cleaning and quick analysis, to SQL and MySQL for database querying — every step builds the foundation for deeper exploration with Python and Power BI. 
+From **Excel** and **Google Sheets** for data cleaning and quick analysis, to SQL and MySQL for database querying — every step builds the foundation for deeper exploration with Python, Looker Studio and Power BI. 
 My goal? To bridge the gap between **business decisions** and **data science**.  
 
 ---
