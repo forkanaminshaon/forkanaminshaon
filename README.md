@@ -8,43 +8,38 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ---
 
-##  About Me
--    **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
--    **Core Skills:** Business Intelligence, Data Analytics, Data Science, Machine Learning,  and Data Visualization
--    **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
--    **Currently Learning:** Advanced data science tools and ML algorithms.
---- 
-![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
----
-##  Tech Summary 
-
-**Languages:** Python, SQL, DAX, VBA  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
-**Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
-**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
-**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
-**Databases:** MySQL, PostgreSQL  
-
----
 ###  Expertise:
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-E8EAED?style=for-the-badge&logo=lookerstudio&logoColor=4285F4)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
----
-
-### Languages and Libraries:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--Learn-FF6F00?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF5733?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge)
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+
+![Statistics](https://img.shields.io/badge/Statistics-2E86C1?style=for-the-badge)
+![Applied Mathematics](https://img.shields.io/badge/Applied%20Mathematics-8E44AD?style=for-the-badge)
+
 
 ---
 
@@ -60,10 +55,42 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 
 ---
 
-###  My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=dark&hide_border=true)
-![Forkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=dark&hide_border=true&count_private=true)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forkanaminshaon&theme=tokyonight" alt="forkanaminshaon" />
+</div>
+
+### 📈 Growth & Activity Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=forkanaminshaon&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=forkanaminshaon&theme=tokyonight" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=forkanaminshaon&theme=tokyonight" alt="Repos per Language"/>
+</div>
+
+### 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forkanaminshaon&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+### 📊 Detailed Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=forkanaminshaon&theme=tokyonight" alt="Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=forkanaminshaon&theme=tokyonight" alt="Most Used Language"/>
+</div>
+
 
 ---
 
@@ -81,16 +108,24 @@ Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 
 ---
 
-## 🏆 Highlights  
--  Winner – **Programming Hero Professional Email Writing Competition**  
--  Project Focus: **Student Mental Health Prediction (DASS-21 + SHAP-based Explainability)**  
--  Research-driven mindset with strong mathematical foundation  
--  Experienced in **data analytics** — from data to actionable insights
-
+##  About Me
+-    **Education:** B.Sc. in **Applied Mathematics** | M.Sc. in **Applied Statistics and Data Science**
+-    **Core Skills:** Business Intelligence, Data Analytics, Data Science, Machine Learning,  and Data Visualization
+-    **Passions:** Clean & efficient data strategy, BI automation, and AI automation.
+-    **Currently Learning:** Advanced data science tools and ML algorithms.
+--- 
+![Profile Views](https://komarev.com/ghpvc/?username=forkanaminshaon)
 ---
 
-##  Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=forkanaminshaon&theme=react-dark&bg_color=0D1117&hide_border=true)
+##  Tech Summary 
+
+**Languages:** Python, SQL, DAX, VBA  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+**Tools:** Excel, Jupyter, VS Code, Git, Google Colab  
+**Data Visualization:** Power BI, Tableau, Looker Studio, Metabase  
+**Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Model Explainability  
+**Databases:** MySQL, PostgreSQL  
+
 
 ---
 
