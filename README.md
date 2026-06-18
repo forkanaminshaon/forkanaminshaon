@@ -1,10 +1,10 @@
 
 #  Hello, I'm Forkan Amin  
-### Aspiring Data Scientist |  Data Analyst  | AI & Machine Learning Enthusiast  
+### Data Scientist |  Data Analyst  | AI & Machine Engineering 
 
-I’m passionate about **transforming raw data into intelligent insights**.  
-From **Excel** and **Google Sheets** for data cleaning and quick analysis, to SQL and MySQL for database querying — every step builds the foundation for deeper exploration with Python, Looker Studio and Power BI. 
-My goal? To bridge the gap between **business decisions** and **data science**.  
+I am passionate about transforming raw data into intelligent insights through Data Science, Analytics, and Artificial Intelligence.
+Using tools such as Excel, SQL, Python, Power BI, and Looker Studio, I develop data-driven solutions that uncover patterns, support strategic decisions, and create business value.
+My goal is to bridge the gap between business challenges and AI-powered solutions through analytics, machine learning, and innovation. 
 
 ---
 
@@ -56,15 +56,11 @@ My goal? To bridge the gap between **business decisions** and **data science**.
 ---
 
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forkanaminshaon&theme=tokyonight" alt="forkanaminshaon" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forkanaminshaon&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### 📈 Growth & Activity Metrics
@@ -78,18 +74,13 @@ My goal? To bridge the gap between **business decisions** and **data science**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=forkanaminshaon&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
-### 🔥 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=forkanaminshaon&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
-### 📊 Detailed Statistics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=forkanaminshaon&theme=tokyonight" alt="Stats Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=forkanaminshaon&theme=tokyonight" alt="Most Used Language"/>
-</div>
 
 
 ---
