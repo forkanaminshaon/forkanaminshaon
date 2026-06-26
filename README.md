@@ -1,10 +1,89 @@
 
-#  Hello, I'm Forkan Amin  
-### Data Scientist |  Data Analyst  | AI & Machine Engineering 
+#  Hello, I'm Forkan Amin
 
-I am passionate about transforming raw data into intelligent insights through Data Science, Analytics, and Artificial Intelligence.
-Using tools such as Excel, SQL, Python, Power BI, and Looker Studio, I develop data-driven solutions that uncover patterns, support strategic decisions, and create business value.
-My goal is to bridge the gap between business challenges and AI-powered solutions through analytics, machine learning, and innovation. 
+### Data Scientist | AI/ML Engineer |  Agentic AI Enthusiast
+
+I am passionate about building intelligent systems that solve real-world problems using **Data Science, Machine Learning, Deep Learning, and Generative AI**. I develop end-to-end AI solutions—from data collection and preprocessing to model training, deployment, and optimization—using modern AI frameworks and tools.
+
+With expertise in **Python, PyTorch, Hugging Face, OpenCV, LangChain, FastAPI, Docker, Vector Databases, and Retrieval-Augmented Generation (RAG)**, I build scalable AI applications, LLM-powered systems, computer vision solutions, and machine learning models that transform data into actionable intelligence.
+
+My goal is to bridge the gap between research and production by developing reliable, efficient, and impactful AI solutions that drive innovation and business value.
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+- Python | SQL | C++
+
+**Machine Learning & AI**
+- Scikit-learn
+- PyTorch
+- Hugging Face Transformers
+- LangChain
+- LlamaIndex
+- OpenCV
+- YOLO
+- NLP
+- Computer Vision
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+**Vector Databases**
+- ChromaDB
+- FAISS
+
+**Backend & Deployment**
+- FastAPI
+- Docker
+- Git & GitHub
+- Linux
+
+**Data Science & Analytics**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Looker Studio
+- Excel
+
+**Databases**
+- MySQL
+- MongoDB
+
+---
+
+## Currently Learning
+
+- AI Agents & Multi-Agent Systems
+- Model Fine-Tuning (LoRA/QLoRA)
+- NVIDIA Triton Inference Server
+- TensorRT Optimization
+- Distributed LLM Inference
+- MLOps & Scalable AI Deployment
+
+---
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Natural Language Processing (NLP)
+- AI Agents
+- MLOps
+
+---
+
+> *"Building intelligent AI solutions that transform data into real-world impact."*
+```
 
 ---
 
@@ -63,7 +142,7 @@ My goal is to bridge the gap between business challenges and AI-powered solution
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forkanaminshaon&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-### 📈 Growth & Activity Metrics
+### Growth & Activity Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=forkanaminshaon&theme=tokyonight" alt="Profile Summary"/>
@@ -142,4 +221,4 @@ Data analysis using Excel automation, pivot tables, and advanced SQL queries.
 
 ---
 
-*“Learning every day. Building with purpose.”*  ⭐
+*“Learning every day. Building with purpose.”*  
